@@ -167,3 +167,5 @@ For questions and support, please open an issue on GitHub or contact our develop
 *Building the future of democratic participation through blockchain technology* 🗳️⚡
 
 Contact Address: 0xd8b934580fcE35a11B58C6D73aDeE468a2833fa8
+![image](https://github.com/user-attachments/assets/17b8e74c-688f-4b82-80b8-3d094ed20aa4)
+
